@@ -54,7 +54,7 @@ Perfectly runs on $10 VPS from [DigitalOcean](https://www.digitalocean.com/?refc
 
 ## Установка
 
-First install composer dependencies:
+Сначала устанавливаем композер зависимостей:
 
 ``` bash
 
