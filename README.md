@@ -10,13 +10,13 @@
 
 [Sites made with DotPlant2](http://dotplant.ru/showcase) - [send us](http://dotplant.ru/contact) your site to be added.
 
-## Features
+## Возможности
 
-### True SEO-friendly
+### Дружественное SEO
 
-Configurable routes and URLs system allows search engines to build correct site structure in their index.
+Настраиваемые пути и система URL-ов позволяет построение правильной структуры майта для индексации поисковым системами.
 
-Every page, product or category has it's own fields for SEO - URL slug, TITLE tag, H1, META description, breadcrumbs label and name that is used as anchor.
+Каждая страница продукта или категории имеет свои собственные поля для SEO - URL метка, тег заголовка, H1, META описание, заголовоки и названия для "хлебных крошек", которые используются в качестве якоря.
 
 ### Smart content editing
 
