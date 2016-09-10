@@ -64,6 +64,11 @@ $ php ../composer.phar install --prefer-dist --optimize-autoloader
 
 ```
 
+### Копируем проект в текущий каталог
+~~~
+git clone https://github.com/ASDAFF/dotplant2 .
+~~~
+
 Your virtual server DocumentRoot directory should point to `application/web`.
 
 Then run `./installer` in application folder.
