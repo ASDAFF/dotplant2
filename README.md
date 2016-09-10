@@ -1,12 +1,12 @@
 # DotPlant2
 
-[DotPlant2](http://dotplant.ru/) - open-source E-Commerce CMS based on Yii Framework 2(yii2).
+[DotPlant2](http://dotplant.ru/) - open-source E-Commerce CMS основанный на Yii Framework 2(yii2).
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DevGroup-ru/dotplant2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) - join chat and get free support(:ru: & :uk:)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DevGroup-ru/dotplant2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) - подключиться к чату и получить бесплатную поддержку(:ru: & :uk:)
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/DevGroup-ru/dotplant2/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/DevGroup-ru/dotplant2/?branch=master)
 
-[Documentation](http://docs.dotplant.ru/) is in development - some docs are only available in one language for now(ru or en).
+[Documentation](http://docs.dotplant.ru/) находится в стадии разработки - некоторые документы доступны только на одном языке, на данный момент (RU и EN).
 
 [Sites made with DotPlant2](http://dotplant.ru/showcase) - [send us](http://dotplant.ru/contact) your site to be added.
 
