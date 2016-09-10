@@ -35,9 +35,9 @@
 
 _And more to come..._
 
-## Minimal system requirements:
+## Минимальные системные требования:
 
-- PHP 5.5 or higher
+- PHP 5.5 или выше
 - *nix-based server
 - MySQL 5.5+
 - Memcached server or APC for caching purposes is highly recommended
@@ -52,7 +52,7 @@ Needed PHP modules:
 
 Perfectly runs on $10 VPS from [DigitalOcean](https://www.digitalocean.com/?refcode=16218608bff6)
 
-## Installation
+## Установка
 
 First install composer dependencies:
 
@@ -72,7 +72,7 @@ Backend is located at http://YOUR_HOSTNAME/backend/
 
 **WARNING** This installation brings you an empty store without any products or categories.
 
-## Demo data
+## Демо данные
 
 **WARNING** Demo data is in Russian for now :(
 
