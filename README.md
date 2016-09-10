@@ -120,3 +120,14 @@ DotPlant 2 is in beta stage. You can use it on production, but be ready for mino
 ## Migrating from alpha
 
 See [migration tips](migration-tips.md) and feel free to ask for help in [gitter chat](https://gitter.im/DevGroup-ru/dotplant2).
+
+
+###Установка демонстрационных данных
+Если Вы еще не определились с выбором DotPlant в качестве платформы для вашего сайта, то демонстрационные данные покажут все большинство преимуществ и помогут сделать правильный выбор :blush:
+
+Для установки demo-данных необходимо перейти в директорию приложения /path/to/dotplant2/application и запустить установку с помощью команды 
+~~~
+php yii migrate --migrationPath=@app/extensions/demo/migrations
+~~~
+
+Важно! Скрипт скачивает архив с изображениями в /path/to/dotplant2/application/web/files/imgs.zip. Если Вы используете Windows или на компьютере не установлен unzip, то необходимо вручную распаковать архив внутрь директории /path/to/dotplant2/application/web/files/.
